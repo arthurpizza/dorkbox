@@ -1,0 +1,17 @@
+---
+layout: post
+tags: Linux terminal video
+date: 2015-04-02 09:30
+thumbnail: /images/th/peerflix.jpg
+title: "Peerflix"
+published: true
+slug: peerflix
+---
+
+[Webupd8](http://www.webupd8.org/2014/03/peerflix-stream-torrents-with-vlc-or.html) has a great guide to installing peerflix. Check out the project on [github](https://github.com/mafintosh/peerflix).
+
+Sorry if this video seems a little… off… I’m rusty as hell at making videos.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ETA2encSLAc" frameborder="0" allowfullscreen></iframe>
+
+__WARNING:__ Using peerflix might not be legit in your country. Use caution.

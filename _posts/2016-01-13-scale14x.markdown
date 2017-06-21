@@ -1,0 +1,17 @@
+---
+layout: post
+tags: blog
+date: 2016-01-13 10:00
+title: "Going to Scale 14x"
+published: true
+slug: scale41x
+---
+This will be my first year attending the [Southern California Linux Expo]. I'll only be there Sunday and I only could afford a general admission ticket but I'm sure it'll be very fun. Plus, it's in [Pasadena] which is nice.
+
+My cohort Johnstar and myself will be running around the Pasadena Convention Center until we are overcome with hunger. At that point we might partake in some local LA burgers. (Probably In-N-Out, almost always is)
+
+I'm very excited and I hope to meet some fellow nerds. If you'll be there on Sunday and you wanna say "yo", hit me up on Twitter [@arthursucks]
+
+[Southern California Linux Expo]: http://www.socallinuxexpo.org/scale/14x
+[Pasadena]: https://en.wikipedia.org/wiki/Pasadena,_California
+[@arthursucks]: https://twitter.com/arthursucks

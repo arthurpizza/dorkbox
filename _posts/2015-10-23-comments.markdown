@@ -1,0 +1,23 @@
+---
+layout: post
+tags: blog
+date: 2015-10-23 09:30
+title: "Comments"
+published: true
+slug: comments
+---
+Let's talk about comments. Well, actually, you're only going to **read** about comments because I've decided to remove the comment function from this site.
+
+A few months ago a site I read regularly, [The Verge](http://theverge.com), turned off their comment system supposedly because of overly offensive and hostile comments. Personally I think this is a bullshit. Ultimately it's their site so their rules.
+
+When [Vice.com](http://vice.com) removed the comments from their blog they admitted to doing a poor job moderating the comments section. That reason hit home. Strike one, **I'm lazy**.
+
+So let's take laziness and add the concern of privacy. Part of the reason I originally wanted to run WordPress is because I care about privacy. Not just my privacy but the privacy of my readers. Yes. I care about you. I recently added [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) to my site as a light layer of protection. I switched to Jekyll for a variety of reasons but one of those reasons was having full control of how my site was built.
+
+## I guess I'll get to the point.
+
+In attempt to keep discussions where they belong and to maximize the options of privacy the comments will be missing from this site.
+
+I have been thinking about making a page on either [Voat](https://voat.co) or [Reddit](https://reddit.com) in the future. Though most of my pages usually don't get enough comments to justify that.
+
+You can, however, get a hold of me on [Twitter](https://twitter.com/arthursucks).

@@ -1,0 +1,193 @@
+body {
+  background-color: #fff;
+  color: #333;
+}
+
+a {
+  color: #DC322F;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #859900;
+}
+
+.logo {
+  border-radius: 100%;
+  margin: 15px 0 32px 0;
+}
+
+.logo {
+  max-width: 100%;
+}
+
+.sidebar {
+  position: fixed;
+  background-color: #111;
+  color: #fff;
+  width: 32.5%;
+  height: 100%;
+}
+
+.sidebar .buttons {
+  color: #DC322F;
+}
+
+.header {
+  max-width: 256px;
+  float: right;
+  margin: 16px 42px;
+  text-align: center;
+}
+
+.bodyworks {
+  float: right;
+  width: 65.5%;
+}
+
+.content {
+  max-width: 840px;
+  margin: 42px 16px;
+  letter-spacing: 0.10rem;
+}
+
+.content p {
+  font-size: 2.2rem;
+  margin: 15px 0px;
+}
+
+.content-header img {
+  float: right;
+  max-height: 64px;
+  border-radius: 100%;
+}
+
+.userface {
+  float: right;
+  height: 80px;
+  border-radius: 100%;
+}
+
+.contnet-header .col-md-6 {
+  max-height: 80px;
+}
+
+.contnet-header .cool-md-6 h1 {
+  padding: 0px;
+  margin: 0px;
+  line-height: 0px;
+}
+
+.contnet-header .col-md-6 p {
+  padding: 0px;
+  margin: 0px;
+  line-height: 0px;
+}
+
+.page-title {
+  height: 80px;
+  margin-bottom: 15px;
+}
+
+.page-title p {
+  font-size: 1.5rem;
+  color: #268BD2;
+}
+
+.page-title h2 {
+  margin-bottom: 25px;
+}
+
+.feet1 p {
+  text-align: left;
+}
+
+.feet2 p {
+  text-align: center;
+}
+
+.feet3 p {
+  text-align: right;
+}
+
+.feeter p {
+  font-size: 11px;
+}
+
+.home .userface {
+  display: none;
+}
+
+.home ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* --- Wordpress Core --- */
+
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter,
+div.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* --- Wordpress Core --- */
+
+@media screen and (max-width: 768px) {
+
+.sidebar {
+  position: initial;
+  background-color: #111;
+  color: #fff;
+  width: 100%;
+  height: auto;
+}
+
+.header {
+  float: initial;
+  margin: 0 auto;
+}
+
+.bodyworks {
+  width: 100%;
+}
+
+.feeter p {
+  text-align: center;
+}
+
+}

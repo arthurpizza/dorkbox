@@ -2,15 +2,15 @@
 
   <div class="header">
     <div class="header-text">
-      <a href="/"><h1>{{ site.title }}</h1></a>
+      <a href="{{ root_url }}"><h1>{{ site.title }}</h1></a>
     </div>
     <div class="logo-box">
-      <a href="/"><img class="logo" src="/img/me.jpg"></a>
+      <a href="/"><img class="logo" src="{{ root_url }}/img/me.jpg"></a>
     </div>
     <div class="buttons">
-      <a href="/about/">About</a> -
-      <a href="/music/">Music</a> -
-      <a href="/pulp-fiction-chronological-cut/">Pulp Fiction Edit</a>
+      <a href="{{ root_url }}/about/">About</a> -
+      <a href="{{ root_url }}/music/">Music</a> -
+      <a href="{{ root_url }}/pulp-fiction-chronological-cut/">Pulp Fiction Edit</a>
     </div>
 
   </div><!-- .header -->
@@ -33,7 +33,7 @@
 
       <div class="col-md-6">
 
-        <img class="userface" src="/img/me.jpg">
+        <img class="userface" src="{{ root_url }}/img/me.jpg">
 
       </div>
 

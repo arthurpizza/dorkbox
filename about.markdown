@@ -10,9 +10,14 @@ I’m a believer in free software and free culture. I try my best to show off th
 
 ## Contact
 
-XMPP/Jabber:
-arthursucks@swissjabber.ch
+**Mail**  
+[art@n0pe.org](mailto:art@n0pe.org)
 
-## Bitcoin
+**XMPP/Jabber**:  
+art@n0pe.org
 
-19UErRVX6zwhqYZRkCKpnR3An4ppNzSynC
+## Donation
+
+[Bitcoin](bitcoin:19UErRVX6zwhqYZRkCKpnR3An4ppNzSynC)  
+[Paypal](https://paypal.me/arthurreeder)
+

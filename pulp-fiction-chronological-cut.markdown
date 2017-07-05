@@ -11,4 +11,6 @@ I started to think about what it was that they were doing. Like my film, this fi
 
 Armed with the original DVD, mencoder converted the film to a xvid/ac3 high resolution encoding. Kdenlive preserved the 5.1 surround sound during editing and when I was done, I had another high resolution xvid/ac3. Using Avidemux, Kdenlive, The GIMP, Handbrake, and FFMPEG the film has been re-encoded to a Xvid for everyone to download.
 
+**Torrent Links Might be unreliable**
+
 [Magnet Link](magnet:?xt=urn:btih:d9b48bfde60c681d0d19bf7cb85b16e0dea5a6fa&dn=pulp%5Ffiction%5Fchronological%5Fcut.avi&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80) - [Torrent](/public/D9B48BFDE60C681D0D19BF7CB85B16E0DEA5A6FA.torrent) - [Zoink.it Torrent Mirror](http://zoink.it/torrent/D9B48BFDE60C681D0D19BF7CB85B16E0DEA5A6FA.torrent)

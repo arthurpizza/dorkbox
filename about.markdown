@@ -13,6 +13,10 @@ I’m a believer in free software and free culture. I try my best to show off th
 **Mail**  
 [art@n0pe.org](mailto:art@n0pe.org)
 
+**Mastodon**
+
+<https://mastodon.network/@arthursucks>
+
 **XMPP/Jabber**:  
 art@n0pe.org
 

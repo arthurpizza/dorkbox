@@ -3,6 +3,8 @@ title: Port Forwarding Basics
 layout: post
 ---
 
+<iframe src="https://archive.org/embed/QuickTechPortForwardingBasics" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 Image having a bare metal server at your fingers tips for (almost) free at all times. If you have a regular internet package in your home as opposed to a shared network like dorms and some apparent buildings do you actually can connect your PC, [Raspberry Pi], and even some smart routers to the web as a server. The trick is by combining your routers port forwarding with a DNS routing service like [Duck DNS].
 
 #### WARNING

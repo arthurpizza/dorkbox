@@ -123,6 +123,11 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0;
 }
 
+.content img {
+  max-width: 100%;
+  border-radius: 3px;
+}
+
 /* --- Wordpress Core --- */
 
 .alignnone {

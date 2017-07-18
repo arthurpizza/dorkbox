@@ -35,7 +35,7 @@ If you have ever heard of Dynamic DNS hosting then you might be familiar with [D
 
 ![](https://cdn.rawgit.com/arthursucks/dorkbox/a1dd19ec/img/duck.png)
 
-Because your public IP address might change periodaclly you can use applications made by Duck DNS to update the service. The account is free and you simply pick a sub domain to connect to [your IP].
+Because your public IP address might change periodically you can use applications made by Duck DNS to update the service. The account is free and you simply pick a sub domain to connect to [your IP].
 
 That's basically it. You also have the ability to connect a custom domain to your Duck DNS account by using a `CNAME` record.
 

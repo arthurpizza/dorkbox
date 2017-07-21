@@ -15,7 +15,7 @@ I’m a believer in free software and free culture. I try my best to show off th
 
 **Mastodon**
 
-<https://mastodon.network/@arthursucks>
+<https://mastodon.sdf.org/@art>
 
 **XMPP/Jabber**:  
 art@n0pe.org

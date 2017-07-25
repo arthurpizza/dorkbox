@@ -2,7 +2,7 @@
 layout: post
 title: Why your favorite tool is terrible
 slug: why-your-favorite-tool-is-terrible
-image: /images/nerd.png
+image: https://n0pe.org/images/nerd.png
 ---
 I know a lot of user really like X but I'm here to tell you why X is just so terrible. I'm not saying you're a terrible person for liking X, but I simply cannot understand why any sane person would use X when Y exists.
 

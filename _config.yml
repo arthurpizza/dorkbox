@@ -1,3 +1,6 @@
 title: Arthur Reeder
 permalink: /:year/:month/:day/:title/
 
+plugins:
+        - jekyll-feed
+

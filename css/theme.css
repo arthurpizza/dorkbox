@@ -39,6 +39,10 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
 }
 
+.header-text h1 {
+  padding-top: 25px;
+}
+
 .bodyworks {
   float: right;
   width: 65.5%;

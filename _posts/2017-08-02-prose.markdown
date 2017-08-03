@@ -14,5 +14,5 @@ When it comes to uploading media like images it doesn't have an obvious way to d
 [Termux]: https://termux.com/
 {:target="_blank"}
 
-[Prose]: https://prose.it
+[Prose]: https://prose.io
 {:target="_blank"}

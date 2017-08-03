@@ -1,0 +1,18 @@
+---
+layout: post
+title: Prose.io - Better Writing for Jekyll on Mobile
+slug: prose
+---
+![Click to Enlarge](/images/prose.png){:class="alignright" width="256"} Using Jekyll on the cellphone is less than optimal. With applications like [Termux] it's totally doable but just awkward as hell.
+
+[Prose] let's you log into your Github account and has a focus on Markdown editing. It even is smart enough to build your front matter and get you blogging pretty fast. The whole thing works great on mobile. I used it in Firefox and it's really slick.
+
+Prose is open source but at the time of writing it only works with Github. That seems to be the most popular Jekyll hosting these days but it would be rad to see this work with Gitlab or Gogs.
+
+When it comes to uploading media like images it doesn't have an obvious way to do that if it's got that feature at all. This might be a good option for anyone who wants get get on Jekyll but have been spoiled by the smoothness that is Wordpress.
+
+[Termux]: https://termux.com/
+{:target="_blank"}
+
+[Prose]: https://prose.it
+{:target="_blank"}

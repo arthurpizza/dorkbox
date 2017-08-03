@@ -2,6 +2,7 @@
 layout: post
 title: Prose.io - Better Writing for Jekyll on Mobile
 slug: prose
+published: true
 ---
 ![Click to Enlarge](/images/prose.png){:class="alignright" width="256"} Using Jekyll on the cellphone is less than optimal. With applications like [Termux] it's totally doable but just awkward as hell.
 
@@ -14,5 +15,5 @@ When it comes to uploading media like images it doesn't have an obvious way to d
 [Termux]: https://termux.com/
 {:target="_blank"}
 
-[Prose]: https://prose.io
+[Prose]: http://prose.io
 {:target="_blank"}

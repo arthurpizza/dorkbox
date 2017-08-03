@@ -1,7 +1,7 @@
-----
+---
 title: Markdown and Creative Writing
 layout: post
-----
+---
 
 ![](/images/markdown-books.jpg){:.alignright}There are a lot of tools people use to write. Some things are very popular and commonplace like Microsoft Office and others are more specialized like [Scrivener](http://www.literatureandlatte.com/scrivener.php){:target="_blank"}. Large text based applications like these have plenty features but also have plenty of limitations. One of the biggest problems is the gargantuan amount of resources required to run these expensive software word processors.
 

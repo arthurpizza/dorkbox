@@ -8,7 +8,7 @@ layout: post
 
 I attempted to make a video call in a noisy location. Pulled out my trusty headphones and plugged them in. Checking the audio settings and found that the terrible microphone connected to the webcam was the only input source.
 
-This might be a Linux driver thing. I completely wiped this machine is Windows when I first got it. I've searched the web and regardless of OS some of these cheaper machines skip on the TRRS plug. We even have the TRRS logo next to the port. I may never know, but I do know I need a solution.
+This might be a Linux driver thing. I completely wiped this machine of Windows when I first got it. I've searched the web and regardless of OS some of these cheaper machines skip on the TRRS plug. We even have the TRRS logo next to the port. I may never know, but I do know I need a solution.
 
 A quick search lead me to this Frankenstein dongle.
 

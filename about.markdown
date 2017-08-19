@@ -13,6 +13,9 @@ I’m a believer in free software and free culture. I try my best to show off th
 **Mail**  
 [art@n0pe.org](mailto:art@n0pe.org)
 
+**Tox**  
+`5AF028D4BAEFEAA797BBDE66862905E5590A4905302DA154E8A95E5791DDC27BAA5685E4A3E1`
+
 **Mastodon**
 
 <https://mastodon.sdf.org/@art>

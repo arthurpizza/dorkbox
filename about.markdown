@@ -13,6 +13,10 @@ I’m a believer in free software and free culture. I try my best to show off th
 **Mail**  
 [art@n0pe.org](mailto:art@n0pe.org)
 
+**Matrix/Riot**
+
+`@arthurreeer:matrix.org`
+
 **Mastodon**
 
 <https://mastodon.sdf.org/@art>

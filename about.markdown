@@ -15,7 +15,7 @@ I’m a believer in free software and free culture. I try my best to show off th
 
 **Matrix/Riot**
 
-`@arthurreeer:matrix.org`
+`@arthurreeder:matrix.org`
 
 **Mastodon**
 

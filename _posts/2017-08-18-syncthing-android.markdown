@@ -2,7 +2,7 @@
 title: Syncthing and Android
 layout: post
 ---
-![Writing this post in Writeily](/images/writeily.png){:.alignright width="256"}I'm spite of the annoyance of my friends, girlfriend, and anyone else I collaborate with I've been trying to reduce my dependence on Google. I've been minimally effective at this. One of the biggest perks of using Google products is the integration with both the mobile and web.
+![Writing this post in Writeily](/images/writeily.png){:.alignright width="256"}In spite of the annoyance of my friends, girlfriend, and anyone else I collaborate with I've been trying to reduce my dependence on Google. I've been minimally effective at this. One of the biggest perks of using Google products is the integration with both the mobile and web.
 
 I can work on a project on my phone, move to the computer, and pick up where I left off. To do this gives Google full unbridled access to your projects. If those projects are important then it makes sense to keep them as secure as possible.
 

@@ -1,0 +1,30 @@
+---
+title: I'm Lazy. This is how I Write
+layout: post
+---
+I don't like to work too hard when it comes to making content. I know that the easier the tools are to use the more likely I am to get shit done.
+
+## Ghostwriter
+
+[Ghostwriter] is an awesome application for the desktop. It's a markdown editor that let's you focus on writing without distracting you. I am very easily distracted. When it's time for me to write I usually get so thrown off fucking with notes and settings.
+
+I _thought_ that vim would be the solution for me. It's lightweight and fast but I still get caught up in the tweaking of the platform. It's hard to find a system that just let's me spill out my words.
+
+Ghostwriter is mostly distraction free. I have it in full screen mode but I still can see my clock (**Very important**) and a cute little word counter at the center bottom triggering my brains reward center the more I write. It's a pleasurable system on my little Thinkpad.
+
+## A Good Keyboard
+
+Most keyboards are **hot garbage**. I've had this struggle coming to terms with what I thought a good keyboard was. I lusted after the old aluminum keyboards that Apple rolled out with in the early 2000s. It was thin, metal, and stylish but in reality it was awkward scissor switches that resulted in a squishy unrewarding experience.
+
+Do I still think they look good? Of course but after getting one and typing on it for a year or two switching to my [Packard Bell 1993] buckle spring mechanical keyboard was like a dream. There are little details in the tactile feel of a good keyboard that cheap keyboards miss. Those are also missing on the Apple $50 keyboard.
+
+## Grab a Drink
+
+Grab a drink and start writing. That's really the key. Don't correct your mistakes on the first run. Just write. Don't worry about structure or flow. Those are all things you can fix when you're done. The trick is to just keep running without looking back.
+
+[Ghostwriter]: https://github.com/wereturtle/ghostwriter
+{:target="_blank"}
+
+[Packard Bell 1993]: /2017/11/26/mechanical-keyboards-of-the-past/
+{:target="_blank"}
+

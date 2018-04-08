@@ -1,5 +1,6 @@
 title: Arthur Reeder
 permalink: /:year/:month/:day/:title/
+url: n0pe.org
 
 plugins:
         - jekyll-feed

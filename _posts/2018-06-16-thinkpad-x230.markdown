@@ -1,0 +1,53 @@
+---
+title: The Magical Thinkpad
+layout: post
+slug: magical-thinkpad
+---
+I've been bitten by the bug and the last 5 weeks I've been getting to know the Thinkpad x230. This little laptop is an absolute _beast_.
+
+**Specs:**
+
++ Intel i5-3320M (4) @ 3.3GHz
++ 16 GBs or DDR3 RAM
++ 250 GB SSD
++ Extended 9 Cell Batter @ ~8 hours
++ 1366x768 IPS Screen
++ Back lit keyboard
+
+I'm running Debian Stable (Stretch). Everything worked out of the box except the WiFi/Bluetooth module that I had to pull from non-free. (I know, I know...)  I updated the bios and flashed the patch to allow non-genuine Lenovo battery packs, saving about $110 on my 9 cell extended battery.
+
+For a laptop that came out in 2013 this thing has way more power than some might think. I am able to edit 1080p video with out stutter in Kdenlive. Besides compiling software that's probably the most taxing thing that I do on a general basis.
+
+## Ports Galore
+
+Dongle life is very limited here. I have 3 USB Type A ports, Mini (Sadly) Display port, Gigabit Ethernet, VGA/DBUS, SD Card, Express Card, and even a Microphone/Headphone jack. The only dongle I need is the Mini Display to HDMI adapter that fits in my laptop bag.
+
+## Blasphemous Keyboard
+
+I bought this model with a standard chic let keyboard but dropped the $25 to upgrade to the chic let back lit keys. The back light is really nice and bright but the keys aren't as clicky.
+
+I know in a lot of Thinkpad circles this is absolute blasphemy not to pick up a traditional mechanical keyboard from the x220 but I do a lot of typing in low light places where the back light comes in very handy.
+
+Still, even though the other keyboards compatible might give a better overall typing experience, this keyboard might be the best I've ever had on a laptop.
+
+##  Screen Limits
+
+My only real gripe with this laptop is the cramped 1366x768 resolution screen. I've been doing little things that aliviate that problem but I might have to look up some serious display upgrade options in the near future.
+
+## Total budget
+
+I picked this thing up for $140. That was with 4 GB of DDR3 RAM and a 320 GB mechanical hard drive. I then grabbed the extended battery for $35. Backlit keyboard was $25 and the 250 GB SSD was $40. I had the 16 GB of RAM laying around but it looks like you can pick it up for about $40.
+
+| Item | Price |
+| --- | --- |
+| Thinkpad x230 | $140 |
+| 16 GB RAM | $0 |
+| 9 Cell Battery | $35 |
+| Backlit Keyboard | $25 |
+| SSD | $40 |
+| **Total** | $240 |
+
+It's totally possible to get these for less. After I bought my Thinkpad I found one at the Swapmeet for $60. It's also easy to small purchase your way into a costly laptop. Still, this is an awesome value for the money.
+
+_Next_, I'm looking at a t430s. After I move of course.
+

@@ -17,6 +17,10 @@ I’m a believer in free software and free culture. I try my best to show off th
 
 `@arthurreeder:matrix.org`
 
+**XMPP**
+
+`art@404.city`
+
 **Mastodon**
 
 <https://mastodon.sdf.org/@art>

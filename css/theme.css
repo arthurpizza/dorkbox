@@ -231,3 +231,8 @@ th, td {
     padding: 5px;
     text-align: left;
 }
+
+.content video {
+  width: 100%;
+  border-radius: 5px;
+}

@@ -1,0 +1,11 @@
+---
+title: "Thinkpad x230: The Best Budget Laptop"
+layout: post
+slug: thinkpadx230-best-laptop
+---
+<video controls poster="https://archive.org/download/arthurreeder-thinkpadx230/thinkpadx230.jpg">
+ <source src="https://archive.org/download/arthurreeder-thinkpadx230/thinkpadx230.webm" type="video/webm">
+ <source src="https://archive.org/download/arthurreeder-thinkpadx230/thinkpadx230.mp4"> type="video/mp4">
+ <a href="https://archive.org/download/arthurreeder-thinkpadx230/thinkpadx230.mp4"><img src="https://archive.org/download/arthurreeder-thinkpadx230/thinkpadx230.jpg"></a>
+</video>
+Today we’re gonna take a little look at the Thinkpad x230. I go over the basic hardware and what I like about it.
